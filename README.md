@@ -175,7 +175,7 @@ Exploratory Data Analysis Projects
 
 👩‍💻 Author
 
-Tanisha Kanwar
+TANISHA KANWAR
 
 Aspiring Data Analyst | Power BI Developer | SQL & Python Enthusiast 
 

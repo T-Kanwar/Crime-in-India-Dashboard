@@ -173,6 +173,12 @@ Crime Data Visualization
 
 Exploratory Data Analysis Projects
 
+🔎 Navigation
+
+Use the navigation icons at the bottom-left corner of the dashboard to switch between pages.
+
+Hold Ctrl + Click on the icon to navigate to the desired page.
+
 👩‍💻 Author
 
 TANISHA KANWAR
